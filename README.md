@@ -9,5 +9,8 @@ In order to run this model, go into RegressionFIle.py & ...
 Expected Output: 
 Matplotlib plot is shown with an almost perfect line of best fit , fitted to the data in the model 
 
+Ps. The dataset uused can be downloaded below and is called student-mat.csv
+https://archive.ics.uci.edu/ml/machine-learning-databases/00320/
+
 Enjoy, thanks! 
 SV
